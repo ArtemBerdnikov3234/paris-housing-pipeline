@@ -1,7 +1,5 @@
 # 🗼 Paris Housing Analytics Pipeline
 
-![Paris Housing Dashboard](images/dashboard-hero.png)
-
 **End-to-end Batch Data Pipeline + Interactive Dashboard** for analyzing real estate prices across all 20 arrondissements of Paris.
 
 This project demonstrates a complete modern data engineering workflow — from raw data ingestion to a production-ready interactive dashboard.
