@@ -160,5 +160,3 @@ Data Engineering Course — Final Project
 April 2026
 
 ---
-
-⭐ If you like this project — please star the repository!
